@@ -1,2 +1,2 @@
-# train
-training
+# nlp100本ノック
+
